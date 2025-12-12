@@ -1,17 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Scrollbar styling */
+/* === Scrollbar Styling === */
 ::-webkit-scrollbar {
   width: 8px;
 }
+
 ::-webkit-scrollbar-thumb {
-  background-color: #4f46e5;
+  background-color: #4f46e5; /* indigo-500 */
   border-radius: 4px;
 }
 
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4f46e5 transparent;
+}
+
+/* === Text Stroke === */
 .stroke-text {
   -webkit-text-stroke: 1.5px #818cf8; /* indigo-400 */
-  text-stroke: 1.5px #818cf8;
+  /* text-stroke standard n'existe pas */
 }
+

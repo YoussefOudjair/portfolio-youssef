@@ -6,7 +6,7 @@ const skillsData = [
     category: 'Développement Web',
     icon: '💻',
     shadow: 'shadow-indigo-500/40',
-    items: ['PHP', 'Laravel', 'HTML/CSS', 'JavaScript', 'Node.js', 'Vue.js', 'React'],
+    items: ['PHP', 'Python', 'HTML', 'CSS', 'JS'],
   },
   {
     category: 'CMS',
@@ -24,19 +24,19 @@ const skillsData = [
     category: 'Développement Général',
     icon: '📘',
     shadow: 'shadow-blue-500/40',
-    items: ['Python', 'Java', 'Ruby'],
+    items: ['Python', 'Java', 'Ruby', 'Git/GitHub'],
   },
   {
     category: 'Intégration',
     icon: '🧪',
     shadow: 'shadow-yellow-400/40',
-    items: ['PHUnit', 'JUnit', 'Selenium', 'Cucumber', 'Gherkin'],
+    items: ['PHUnit', 'JUnit', 'Selenium', 'Cucumber', 'Gherkin', 'Postman'],
   },
   {
     category: 'Base de données',
     icon: '📦',
     shadow: 'shadow-green-500/40',
-    items: ['PostgreSQL', 'Oracle', 'MySQL', 'MongoDB'],
+    items: ['PostgreSQL', 'Oracle', 'MySQL', 'MongoDB', 'NoSQL' ],
   },
   {
     category: 'Systèmes d’exploitation',
@@ -48,7 +48,7 @@ const skillsData = [
     category: 'Bureautique & Design',
     icon: '🎨',
     shadow: 'shadow-teal-400/40',
-    items: ['MS Office', 'Photoshop', 'Canva', 'After Effects', 'Vegas Pro'],
+    items: ['MS Office', 'Photoshop', 'Canva', 'After Effects', 'Vegas Pro', 'Figma', 'Inkscape'],
   },
 ]
 

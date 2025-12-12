@@ -28,10 +28,10 @@ export default function About() {
 
       <h3 className="text-left">🛠️ <strong>Compétences techniques</strong></h3>
       <ul className="text-left list-disc list-inside mb-4 text-gray-300">
-        <li><strong>Frontend :</strong> HTML, CSS, JavaScript, React, Vue.js, Tailwind</li>
-        <li><strong>Backend :</strong> Node.js, Express.js, PHP (Laravel)</li>
-        <li><strong>Base de données :</strong> MySQL, PostgreSQL</li>
-        <li><strong>Outils :</strong> Git / GitHub / GitLab, Visual Studio Code</li>
+        <li><strong>LANGAGES</strong> HTML, CSS, JS, PHP, Python</li>
+        <li><strong>FRAMEWORKS</strong> NODE, REACT, Angular, Express, Symphony </li>
+        <li><strong>BDD</strong> MySQL, PostgreSQL, NOSQL, MongoDB</li>
+        <li><strong>OUTILS</strong> Git/GitHub, Maven, Selenium, Postman, JUnit, Cucumber</li>
       </ul>
 
       <br />
