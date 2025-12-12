@@ -54,7 +54,7 @@ export default function About() {
 
       <h3 className="text-left">💡 <strong>Ce qui me définit</strong></h3>
       <p className="mb-4 text-left">
-      <strong>Curieux</strong>, <strong>autonome</strong>et <strong>rigoureux</strong>, je cherche à apprendre en faisant et à maîtriser ce que je découvre.
+      <strong>Curieux</strong>, <strong>autonome</strong> et <strong>rigoureux</strong>, je cherche à apprendre en faisant et à maîtriser ce que je découvre.
       </p>
     </motion.section>
   )

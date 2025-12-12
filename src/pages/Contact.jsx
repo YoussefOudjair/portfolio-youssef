@@ -5,7 +5,7 @@ const contactData = [
     id: 'email',
     icon: '📧',
     label: 'Email',
-    value: 'youcef.jair@gmail.com',
+    value: 'youdjair@gmail.com',
     href: 'mailto:youcef.jair@gmail.com',
     shadow: 'shadow-indigo-500/50',
   },
