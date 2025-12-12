@@ -10,7 +10,7 @@ export default function Home() {
     >
       <h1 className="text-6xl font-extrabold mb-4">Youssef Oudjair</h1>
       <p className="text-xl text-gray-300 max-w-xl mx-auto">
-        Développeur Web Full Stack – En recherche d'alternance
+        Développeur Web junior – En recherche d'alternance
       </p>
     </motion.section>
   )

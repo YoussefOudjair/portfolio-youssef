@@ -13,11 +13,15 @@ export default function About() {
       </h2>      
 
       <p className="mb-4 text-left">
-        Je m'appelle <strong>Youssef Oudjair</strong>, passionné par le développement web et actuellement à la recherche d'une <strong>alternance en développement Full Stack</strong> à partir de <strong>septembre 2025</strong>, pour intégrer la <strong>L3 MIAGE à l’université Paris Nanterre</strong>.
+        Je m'appelle <strong>Youssef Oudjair</strong>. Je suis passionné par le développement web et je cherche une <strong>alternance à partir de la rentrée 2025</strong> pour poursuivre mon <strong>Bachelor Développement Web à l’ISCOD</strong>, avec un rythme de <strong>1 jour en cours et 4 jours en entreprise.</strong>.
       </p>
 
       <p className="mb-4 text-left">
-        Diplômé d’un <strong>BTS SNIR</strong>, j’ai continué à me former de manière autodidacte pendant deux ans. Malgré une recherche d’alternance constante, je n’ai pas pu reprendre mes études immédiatement, mais ce parcours atypique renforce aujourd’hui ma détermination à apprendre, contribuer et construire un avenir professionnel solide.
+        Après mon <strong>BTS SNIR</strong>, j’ai continué à me former par moi-même pendant deux ans. Je n’ai pas trouvé d’alternance à ce moment-là, mais ça ne m’a pas freiné. Au contraire, ça m’a permis de progresser, d’expérimenter, de travailler sur des projets perso et de confirmer que c’est vraiment dans le développement web que je veux construire ma carrière.
+      </p>
+
+      <p className="mb-4 text-left">
+      Aujourd’hui, je suis prêt à m’investir pleinement et à rejoindre une équipe où je pourrai apprendre, avancer et apporter ma motivation.
       </p>
 
       <br />
@@ -44,14 +48,13 @@ export default function About() {
 
       <h3 className="text-left">🎯 <strong>Objectif</strong></h3>
       <p className="mb-4 text-left">
-        Ce que je cherche, ce n’est pas juste un contrat : c’est un vrai terrain d’apprentissage. Un environnement où je peux monter en compétences, m’impliquer dans des projets concrets et avancer techniquement et humainement.
+       Ce que je cherche, ce n’est pas seulement une alternance. J’ai besoin d’un endroit où je peux vraiment apprendre, progresser et m’impliquer dans des projets concrets. Un environnement qui me permette d’évoluer techniquement, mais aussi humainement.
       </p>
-
       <br />
 
       <h3 className="text-left">💡 <strong>Ce qui me définit</strong></h3>
       <p className="mb-4 text-left">
-        Je suis <strong>curieux</strong>, <strong>autonome</strong>, à l’écoute et rigoureux. J’ai un vrai goût pour le travail bien fait, pour la résolution de problèmes, et surtout pour tout ce que je ne maîtrise pas encore. J’aime comprendre en profondeur ce que je fais et pourquoi je le fais.
+      <strong>Curieux</strong>, <strong>autonome</strong>et <strong>rigoureux</strong>, je cherche à apprendre en faisant et à maîtriser ce que je découvre.
       </p>
     </motion.section>
   )
